@@ -10,7 +10,7 @@
 	},
 	"rss": "",
 	"servers": [{
-		"id": "RosaMC-1.8.8",
+		"id": "RosaMC-1.8.8.jar",
 		"name": "RosaMC 1.8.8",
 		"description": "Client pour RosaMC",
 		"icon": "https://cdn.discordapp.com/icons/766788765044834366/62c25a798f3020c56ec1dd3da3ffc7c7.png",
