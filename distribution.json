@@ -10,7 +10,7 @@
 	},
 	"rss":"",
 	"servers": [{
-		"id": "RosaMC-1.8.8",
+		"id": "RosaMC",
 		"name": "RosaMC",
 		"description": "Client pour le MQ",
 		"icon": "https://static.wikia.nocookie.net/monsterquest/images/8/86/Logo_monsterquest.png/revision/latest/scale-to-width-down/180?cb=20200510135715&path-prefix=fr",
