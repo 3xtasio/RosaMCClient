@@ -25,7 +25,7 @@
 		"mainServer": true,
 		"autoconnect": true,
 		"modules": [{
-				"id": "RosaMC",
+				"id": "RosaMC-1.8.8",
 				"name": "Minecraft Forge",
 				"type": "CustomVersion",
 				"artifact": {
