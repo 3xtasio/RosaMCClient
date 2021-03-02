@@ -15,7 +15,7 @@
 		"description": "Client pour le MQ",
 		"icon": "https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png",
 		"version": "1.0.0",
-		"address": "play.monsterquest.eu",
+		"address": "play.rosamc.fr",
 		"minecraftVersion": "1.8.9",
 		"discord": {
 			"shortId": "MQ",
