@@ -30,7 +30,7 @@
 				"type": "File",
 				"artifact": {
 					"size": 15834264,
-					"path": "../../common/version/RosaMC/RosaMC-1.8.8.jar"
+					"path": "../../common/version/RosaMC/RosaMC-1.8.8.jar",
 					"MD5": "0ac6ede13a1414d2e12cb3c5d2616aba",
 					"url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/RosaMC-1.8.8.jar"
 				}
