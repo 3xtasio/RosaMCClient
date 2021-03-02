@@ -23,7 +23,7 @@
 			"largeImageKey": "logo"
 		},
 		"mainServer": true,
-		"autoconnect": true,
+		"autoconnect": false,
 		"modules": [{
 				"id": "RosaMC-1.8.8",
 				"name": "Minecraft Forge",
