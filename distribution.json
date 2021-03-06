@@ -239,7 +239,7 @@
 				}
 			},
 			{
-				"id": "net.playerapi:playerapi:1.0"
+				"id": "net.playerapi:playerapi:1.0",
 				"name": "PlayerAPI",
 				"type": "ForgeMod",
 				"required": {
