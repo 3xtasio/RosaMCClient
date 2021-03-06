@@ -278,6 +278,32 @@
 				}
 			},
 			{
+				"id": "net.statuseffecthud:statuseffecthud:1.0",
+				"name": "StatusEffect",
+				"type": "ForgeMod",
+				"required": {
+					"value": true
+				},
+				"artifact": {
+					"size": 26448,
+					"MD5": "0cef5a3326f9f1b7a9b0946b21f9469e",
+					"url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/StatusEffectHUD-1.0.jar"
+				}
+			},
+			{
+				"id": "net.bspkrscore:bspkrscore:1.0",
+				"name": "BspkrsCore",
+				"type": "ForgeMod",
+				"required": {
+					"value": true
+				},
+				"artifact": {
+					"size": 64053,
+					"MD5": "e158e128f07afcb38aaa85fd7fdc11b5",
+					"url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/BspkrsCore-1.0.jar"
+				}
+			},
+			{
 				"id": "ToggleSneak.cfg",
 				"name": "ToggleSneak Config",
 				"type": "File",
