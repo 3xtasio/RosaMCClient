@@ -239,7 +239,7 @@
 				}
 			},
 			{
-				"id": "net.playerapi:playerapi:1.0",
+				"id": "net.playerapi:playerapi:1.8.9-1.0",
 				"name": "PlayerAPI",
 				"type": "ForgeMod",
 				"required": {
@@ -248,11 +248,11 @@
 				"artifact": {
 					"size": 266738,
 					"MD5": "5e77af0da489534738d479519f8d0177",
-					"url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/PlayerAPI_1.8.9_1.0.jar"
+					"url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/PlayerAPI-1.8.9-1.0.jar"
 				}
 			},
 			{
-				"id": "net.togglesneak:togglesneak:v3.2.2",
+				"id": "net.togglesneak:togglesneak:(1.8.9)-v3.2.2",
 				"name": "ToggleSneak",
 				"type": "ForgeMod",
 				"required": {
