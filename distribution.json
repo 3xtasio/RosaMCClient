@@ -302,6 +302,19 @@
 					"MD5": "e158e128f07afcb38aaa85fd7fdc11b5",
 					"url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/BspkrsCore-1.0.jar"
 				}
+			},			
+			{
+				"id": "net.custommainmenu:custommainmenu:1.9.3",
+				"name": "CustomMainMenu",
+				"type": "ForgeMod",
+				"required": {
+					"value": true
+				},
+				"artifact": {
+					"size": 5993225,
+					"MD5": "cee0240738894fd1e475356f0b523ad0",
+					"url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/CustomMainMenu-1.9.3.jar"
+				}
 			},
 			{
 				"id": "ToggleSneak.cfg",
