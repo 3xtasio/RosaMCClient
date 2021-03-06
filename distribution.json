@@ -239,7 +239,7 @@
 				}
 			},
 			{
-				"id": "net.playerapi:playerapi:1.8.9"
+				"id": "net.playerapi:playerapi:1.0"
 				"name": "PlayerAPI Mod",
 				"type": "ForgeMod",
 				"required": {
@@ -252,7 +252,7 @@
 				}
 			},
 			{
-				"id": "net.togglesneak:togglesneak:1.8.9",
+				"id": "net.togglesneak:togglesneak:v3.2.2",
 				"name": "ToggleSneak Mod",
 				"type": "ForgeMod",
 				"required": {
