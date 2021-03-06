@@ -239,6 +239,19 @@
 				}
 			},
 			{
+				"id": "PlayerAPI-1.8.9-1.0",
+				"name": "PlayerAPI Mod",
+				"type": "ForgeMod",
+				"required": {
+					"value": true
+				},
+				"artifact": {
+					"size": 266738,
+					"MD5": "5e77af0da489534738d479519f8d0177",
+					"url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/PlayerAPI-1.8.9-1.0.jar"
+				}
+			},
+			{
 				"id": "ToggleSneak-(1.8.9)-v3.2.2",
 				"name": "ToggleSneak Mod",
 				"type": "ForgeMod",
