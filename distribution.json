@@ -265,6 +265,19 @@
 				}
 			},
 			{
+				"id": "net.armorstatushud:armorstatushud:1.0",
+				"name": "ArmorStatus",
+				"type": "ForgeMod",
+				"required": {
+					"value": true
+				},
+				"artifact": {
+					"size": 28389,
+					"MD5": "b665eef0c7e2fcdf0de7c2bfe39ed538",
+					"url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/ArmorStatusHUD-1.0.jar"
+				}
+			},
+			{
 				"id": "ToggleSneak.cfg",
 				"name": "ToggleSneak Config",
 				"type": "File",
@@ -273,6 +286,28 @@
 				    "MD5": "99760dd228cb2cf5f0c159d1d4adbd1c",
 				    "path": "config/ToggleSneak.cfg",
 				    "url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/ToggleSneak.cfg"
+				}
+			},
+			{
+				"id": "ArmorStatusHUD.cfg",
+				"name": "ArmorStatusHUD Config",
+				"type": "File",
+				"artifact": {
+				    "size": 3557,
+				    "MD5": "99760dd228cb2cf5f0c159d1d4adbd1c",
+				    "path": "config/ArmorStatusHUD.cfg",
+				    "url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/ArmorStatusHUD.cfg"
+				}
+			},
+			{
+				"id": "StatusEffectHUD.cfg",
+				"name": "StatusEffectStatusHUD Config",
+				"type": "File",
+				"artifact": {
+				    "size": 2969,
+				    "MD5": "99760dd228cb2cf5f0c159d1d4adbd1c",
+				    "path": "config/StatusEffectHUD.cfg",
+				    "url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/StatusEffectHUD.cfg"
 				}
 			}
 			    
