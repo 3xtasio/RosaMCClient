@@ -2,7 +2,7 @@
 	"version": "1.0.0",
 	"discord": {
 		"clientId": "815672350459822081",
-		"smallImageText": "",
+		"smallImageText": "RosaMC",
 		"smallImageKey": "large"
 	},
 	"java": {
