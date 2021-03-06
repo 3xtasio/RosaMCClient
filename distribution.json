@@ -1,9 +1,9 @@
 {
 	"version": "1.0.0",
 	"discord": {
-		"clientId": "798268349003857954",
+		"clientId": "815672350459822081",
 		"smallImageText": "MQLauncher",
-		"smallImageKey": "logo"
+		"smallImageKey": "large"
 	},
 	"java": {
 		"oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
@@ -13,7 +13,7 @@
 		"id": "RosaMC-1.8.9",
 		"name": "RosaMC 1.8.9",
 		"description": "Client pour le MQ",
-		"icon": "https://static.wikia.nocookie.net/monsterquest/images/8/86/Logo_monsterquest.png/revision/latest/scale-to-width-down/180?cb=20200510135715&path-prefix=fr",
+		"icon": "https://cdn.discordapp.com/app-icons/815672350459822081/4def7301b9026c2391de19c794cc6950.png",
 		"version": "1.0.0",
 		"address": "play.rosamc.fr",
 		"minecraftVersion": "1.8.9",
