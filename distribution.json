@@ -13,14 +13,14 @@
 		"id": "RosaMC-1.8.9",
 		"name": "RosaMC 1.8.9",
 		"description": "Client pour le MQ",
-		"icon": "https://cdn.discordapp.com/app-icons/815672350459822081/4def7301b9026c2391de19c794cc6950.png",
+		"icon": "https://cdn.discordapp.com/attachments/814545966501462076/824368806200606780/Icon_rosamc.png",
 		"version": "1.0.0",
 		"address": "play.rosamc.fr",
 		"minecraftVersion": "1.8.9",
 		"discord": {
-			"shortId": "MQ",
-			"largeImageText": "MQ Serveur",
-			"largeImageKey": "logo"
+			"shortId": "815672350459822081",
+			"largeImageText": "RosaMC",
+			"largeImageKey": "large"
 		},
 		"mainServer": true,
 		"autoconnect": false,
