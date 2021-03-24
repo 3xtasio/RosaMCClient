@@ -12,7 +12,7 @@
 	"servers": [{
 		"id": "RosaMC-1.8.9",
 		"name": "RosaMC 1.8.9",
-		"description": "Client pour le MQ",
+		"description": "Client RosaMC",
 		"icon": "https://cdn.discordapp.com/attachments/814545966501462076/824368806200606780/Icon_rosamc.png",
 		"version": "1.0.0",
 		"address": "play.rosamc.fr",
