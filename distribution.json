@@ -348,6 +348,17 @@
 				    "path": "config/StatusEffectHUD.cfg",
 				    "url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/StatusEffectHUD.cfg"
 				}
+			},
+			{
+				"id": "options.cfg",
+				"name": "options config",
+				"type": "File",
+				"artifact": {
+				    "size": 2317,
+				    "MD5": "41f4a5531b1dc0353503691f500c722b",
+				    "path": "options.txt",
+				    "url": "https://raw.githubusercontent.com/Extasio15/RosaMCClient/main/options.txt"
+				}
 			}
 			    
 		]
